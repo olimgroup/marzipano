@@ -1,4 +1,19 @@
 {
   "name": "marzipano",
+  "version": "1.0.0",
+  "description": "",
   "main": "marzipano.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/olimgroup/marzipano.git"
+  },
+  "author": "",
+  "license": "MPL-2.0",
+  "bugs": {
+    "url": "https://github.com/olimgroup/marzipano/issues"
+  },
+  "homepage": "https://github.com/olimgroup/marzipano#readme"
 }
